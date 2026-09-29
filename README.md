@@ -72,10 +72,9 @@ g++ -std=c++17 main.cpp -o output
  * Environment: Linux (Ubuntu) / Visual Studio Code
  * Version Control: Git & GitHub
 💬 Contact Information
- * Name: Nimra riqat
+ * Name: nimrariqat
  * Email: nimrariqat62@gmail.com
- * Portfolio: nimrariqat62-pixel 
-💡 Tips for South Korean Professors:
+ * Portfolio: nimrariqat62_pixel
  * Academic Precision: Highlight Big-O notation (\mathcal{O}) clearly. Korean CS labs highly value strong mathematical and efficiency fundamentals.
  * Clean Markdown: Keep commit messages clear (e.g., feat: implement Dijkstra graph algorithm).
  * Visual Appeal: Maintain clean tables, clear tree structures, and concise badges at the top if desired.
