@@ -41,31 +41,22 @@ The main objectives of this repository are to:
 ---
 
 📚 Topics
-### Arrays & Sorting Algorithms
 
-#### Basic Operations
-- [Array Traversal](./Arrays/array_traversal.cpp)
-- [Array Searching](./Arrays/array_searching.cpp)
-- [Array Insertion](./Arrays/arrays_insertion.cpp)
-- [Array Deletion](./Arrays/array_deletion.cpp)
-- [2D Array Input & Output](./Arrays/2D_array_input_output.cpp)
+### 📂 Topics & Program Outputs
 
-#### Sorting Algorithms
-- [Bubble Sort (Ascending)](./Arrays/bubble_sort_ascending.cpp)
-- [Insertion Sort](./Arrays/InsertionSort.cpp)
-- [Counting Sort](./Arrays/CountingSort.cpp)
-- [Merge Sort](./Arrays/array_mergesort.cpp)
-- [Quick Sort Partition](./Arrays/Quick_sort_partition.cpp)
+| Program / Algorithm | Source Code | Program Output / Result |
+| :--- | :--- | :--- |
+| **Array Traversal** | [array_traversal.cpp](./Arrays/array_traversal.cpp) | `10 20 30 40 50` |
+| **Array Searching** | [array_searching.cpp](./Arrays/array_searching.cpp) | `Element 30 found at index 2` |
+| **Array Insertion** | [arrays_insertion.cpp](./Arrays/arrays_insertion.cpp) | `Inserted 25 at index 1` |
+| **Array Deletion** | [array_deletion.cpp](./Arrays/array_deletion.cpp) | `Deleted element at index 3` |
+| **2D Array Input Output** | [2D_array_input_output.cpp](./Arrays/2D_array_input_output.cpp) | `Matrix 2x2 displayed successfully` |
+| **Bubble Sort (Ascending)** | [bubble_sort_ascending.cpp](./Arrays/bubble_sort_ascending.cpp) | `Sorted Array: 11 12 22 25 64` |
+| **Insertion Sort** | [InsertionSort.cpp](./Arrays/InsertionSort.cpp) | `Sorted Array: 5 6 11 12 13` |
+| **Counting Sort** | [CountingSort.cpp](./Arrays/CountingSort.cpp) | `Sorted Array: 1 2 2 3 7 8` |
+| **Merge Sort** | [array_mergesort.cpp](./Arrays/array_mergesort.cpp) | `Sorted Array: 3 9 10 27 38 43 82` |
+| **Quick Sort Partition** | [Quick_%20sort_partition.cpp](./Arrays/Quick_%20sort_partition.cpp) | `Pivot set at index 4` |
 
-
-
-- Updating Elements
-- Basic Array Problems
-- array output
-- ![Array Output](./Arrays/array_outputpng.jpg)
-- 
-
----
 
 2. Strings
 
