@@ -41,6 +41,22 @@ The main objectives of this repository are to:
 ---
 
 📚 Topics
+### Arrays & Sorting Algorithms
+
+#### Basic Operations
+- [Array Traversal](./Arrays/array_traversal.cpp)
+- [Array Searching](./Arrays/array_searching.cpp)
+- [Array Insertion](./Arrays/arrays_insertion.cpp)
+- [Array Deletion](./Arrays/array_deletion.cpp)
+- [2D Array Input & Output](./Arrays/2D_array_input_output.cpp)
+
+#### Sorting Algorithms
+- [Bubble Sort (Ascending)](./Arrays/bubble_sort_ascending.cpp)
+- [Insertion Sort](./Arrays/InsertionSort.cpp)
+- [Counting Sort](./Arrays/CountingSort.cpp)
+- [Merge Sort](./Arrays/array_mergesort.cpp)
+- [Quick Sort Partition](./Arrays/Quick_sort_partition.cpp)
+
 
 1. Arrays
 
