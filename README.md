@@ -53,6 +53,8 @@ Topics include:
 - User Input
 - Output
 - Array Traversal
+- [Array Traversal](./Arrays/array_traversal.cpp)
+
 - Searching
 - [Searching](./Arrays/array_searching.cpp)
 
