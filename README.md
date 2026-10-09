@@ -58,7 +58,8 @@ Topics include:
 - - [Array Insertion](./Arrays/arrays_insertion.cpp)
 
 - deletion 
-- [x] Array Deletion - [`deletion.cpp`](./Arrays/deletion.cpp)
+- - [Deletion](./Arrays/array_deletion.cpp)
+
 
 
 - Updating Elements
