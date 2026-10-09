@@ -58,32 +58,6 @@ The main objectives of this repository are to:
 - [Quick Sort Partition](./Arrays/Quick_sort_partition.cpp)
 
 
-1. Arrays
-
-Arrays are fundamental linear data structures used to store multiple elements of the same type in contiguous memory.
-
-Topics include:
-
-- Array Declaration
-- Array Initialization
-- User Input
-- Output
-_ 2D_array_input_output.cpp
-- [2D Array Input Output](./Arrays/2D_array_input_output.cpp)
-
-- Array Traversal
-- [Array Traversal](./Arrays/array_traversal.cpp)
-
-- Searching
-- [Searching](./Arrays/array_searching.cpp)
-
-- Insertion
-- - [Array Insertion](./Arrays/arrays_insertion.cpp)
-
-- deletion 
-- - [Deletion](./Arrays/array_deletion.cpp)
-
-
 
 - Updating Elements
 - Basic Array Problems
