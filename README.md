@@ -58,6 +58,9 @@ Topics include:
 - Deletion
 - Updating Elements
 - Basic Array Problems
+- array output
+- ![Array Output](./Arrays/array_outputpng.jpg)
+- 
 
 ---
 
