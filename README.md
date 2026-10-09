@@ -55,7 +55,8 @@ Topics include:
 - Array Traversal
 - Searching
 - Insertion
-- [x] Array Insertion - [`insertion.cpp`](./Arrays/insertion.cpp)
+- - [Array Insertion](./Arrays/arrays_insertion.cpp)
+
 - deletion 
 - [x] Array Deletion - [`deletion.cpp`](./Arrays/deletion.cpp)
 
