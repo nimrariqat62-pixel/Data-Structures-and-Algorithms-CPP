@@ -54,6 +54,8 @@ Topics include:
 - Output
 - Array Traversal
 - Searching
+- [Searching](./Arrays/array_searching.cpp)
+
 - Insertion
 - - [Array Insertion](./Arrays/arrays_insertion.cpp)
 
