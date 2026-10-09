@@ -52,6 +52,9 @@ Topics include:
 - Array Initialization
 - User Input
 - Output
+_ 2D_array_input_output.cpp
+- [2D Array Input Output](./Arrays/2D_array_input_output.cpp)
+
 - Array Traversal
 - [Array Traversal](./Arrays/array_traversal.cpp)
 
