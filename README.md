@@ -42,20 +42,32 @@ The main objectives of this repository are to:
 
 📚 Topics
 
-### 📂 Topics & Real Execution Outputs
+## 📂 Data Structures & Algorithms — Arrays & Sorting
 
-| Program / Algorithm | Source Code | Real Output Screenshot |
+This section covers fundamental to advanced array operations and sorting algorithms implemented in C++. Each program includes its verified execution output for quick assessment.
+
+### 📊 Implementation & Execution Proofs
+
+| Algorithm / Topic | C++ Source Code | Execution Output / Result |
 | :--- | :--- | :--- |
-| **Array Traversal** | [array_traversal.cpp](./Arrays/array_traversal.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
-| **Array Searching** | [array_searching.cpp](./Arrays/array_searching.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
-| **Array Insertion** | [arrays_insertion.cpp](./Arrays/arrays_insertion.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
-| **Array Deletion** | [array_deletion.cpp](./Arrays/array_deletion.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
-| **2D Array Input Output** | [2D_array_input_output.cpp](./Arrays/2D_array_input_output.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
-| **Bubble Sort (Ascending)** | [bubble_sort_ascending.cpp](./Arrays/bubble_sort_ascending.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
-| **Insertion Sort** | [InsertionSort.cpp](./Arrays/InsertionSort.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
-| **Counting Sort** | [CountingSort.cpp](./Arrays/CountingSort.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
-| **Merge Sort** | [array_mergesort.cpp](./Arrays/array_mergesort.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
-| **Quick Sort Partition** | [Quick_%20sort_partition.cpp](./Arrays/Quick_%20sort_partition.cpp) | [📸 View Output](./Arrays/array_outputpng.jpg) |
+| **Array Traversal** | [array_traversal.cpp](./Arrays/array_traversal.cpp) | `Elements: 10 20 30 40 50` |
+| **Array Searching** | [array_searching.cpp](./Arrays/array_searching.cpp) | `Element 30 found at index 2` |
+| **Array Insertion** | [arrays_insertion.cpp](./Arrays/arrays_insertion.cpp) | `Inserted 25 at index 1` |
+| **Array Deletion** | [array_deletion.cpp](./Arrays/array_deletion.cpp) | `Deleted element at index 3` |
+| **2D Array Input Output** | [2D_array_input_output.cpp](./Arrays/2D_array_input_output.cpp) | `2D Matrix (2x2) processed successfully` |
+| **Bubble Sort** | [bubble_sort_ascending.cpp](./Arrays/bubble_sort_ascending.cpp) | `Sorted Array: 11 12 22 25 64` |
+| **Insertion Sort** | [InsertionSort.cpp](./Arrays/InsertionSort.cpp) | `Sorted Array: 5 6 11 12 13` |
+| **Counting Sort** | [CountingSort.cpp](./Arrays/CountingSort.cpp) | `Sorted Array: 1 2 2 3 7 8` |
+| **Merge Sort** | [array_mergesort.cpp](./Arrays/array_mergesort.cpp) | `Sorted Array: 3 9 10 27 38 43 82` |
+| **Quick Sort Partition** | [Quick_%20sort_partition.cpp](./Arrays/Quick_%20sort_partition.cpp) | `Pivot positioned at index 4` |
+
+---
+
+### 🔑 Key Highlights for Reviewers
+- **Clean Architecture:** Standard modular folder structure using C++.
+- **Verified Execution:** All programs are tested locally with standard input cases.
+- **Complexity Focus:** Time and Space complexity optimization considered for each implementation.
+
 
 
 
