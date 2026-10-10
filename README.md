@@ -515,12 +515,15 @@ Every program in this repository represents another step toward stronger program
 * name: nimrariqat
 * email : nimrariqat62@gmail.com 
 * GitHub: nimrariqat62_pixel
+
  
 Computer Science Student | C++ | Data Structures | Algorithms | Problem Solving
 
 📍 Pakistan
 
 🎓 Aspiring Computer Scientist
+
+learn Korean language pre bscs 
 
 🌏 Long-Term Academic Goal: Higher Education in South Korea
 
