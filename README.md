@@ -61,7 +61,8 @@ This section covers fundamental to advanced array operations and sorting algorit
 | **Merge Sort** | [array_mergesort.cpp](./Arrays/array_mergesort.cpp) | `Sorted Array: 3 9 10 27 38 43 82` |
 | **Quick Sort Partition** | [Quick_%20sort_partition.cpp](./Arrays/Quick_%20sort_partition.cpp) | `Pivot positioned at index 4` | | Topic / Concept | Source Code | Execution Proof / Output |
 | :--- | :--- | :--- |
-| **Minimum Window Sum (Sliding Window)** | [minimum_window_Sum.cpp](./minimum_window_Sum.cpp) | `minimumwindowSum : 24 [Program finished]` |
+| **Minimum Window Sum (Sliding Window)** | [minimum_window_Sum.cpp](./Array/minimum_window_Sum.cpp) | `minimumwindowSum : 24 [Program finished]` |
+
 
 
 
