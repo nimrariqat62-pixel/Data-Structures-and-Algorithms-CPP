@@ -510,23 +510,22 @@ Every program in this repository represents another step toward stronger program
 
 ---
 
-👩‍💻 Author
+### 👩‍💻 Author Profile
 
-* name: nimrariqat
-* email : nimrariqat62@gmail.com 
-* GitHub: nimrariqat62_pixel
+* **Name:** Nimra Riqat
+* **Email:** [nimrariqat62@gmail.com](mailto:nimrariqat62@gmail.com)
+* **GitHub:** [@nimrariqat62-pixel](https://github.com/nimrariqat62-pixel)
 
- 
-Computer Science Student | C++ | Data Structures | Algorithms | Problem Solving
+---
 
-📍 Pakistan
+**Computer Science Student | C++ | Data Structures & Algorithms | Problem Solving**
 
-🎓 Aspiring Computer Scientist
+📍 **Location:** Pakistan  
+🎓 **Status:** Aspiring Computer Scientist (Pre-BSCS)  
+🇰🇷 **Language Prep:** Learning Korean (TOPIK Preparation)  
+🌐 **Long-Term Goal:** Pursuing Higher Education & Scholarship Opportunities in South Korea  
 
-learn Korean language pre bscs 
+> *"Building my skills one concept, one program, and one step at a time."*
 
-🌏 Long-Term Academic Goal: Higher Education in South Korea
-
-«Building my skills one concept, one program, and one step at a time.»
 
 
