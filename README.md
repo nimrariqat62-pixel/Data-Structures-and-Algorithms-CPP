@@ -59,7 +59,10 @@ This section covers fundamental to advanced array operations and sorting algorit
 | **Insertion Sort** | [InsertionSort.cpp](./Arrays/InsertionSort.cpp) | `Sorted Array: 5 6 11 12 13` |
 | **Counting Sort** | [CountingSort.cpp](./Arrays/CountingSort.cpp) | `Sorted Array: 1 2 2 3 7 8` |
 | **Merge Sort** | [array_mergesort.cpp](./Arrays/array_mergesort.cpp) | `Sorted Array: 3 9 10 27 38 43 82` |
-| **Quick Sort Partition** | [Quick_%20sort_partition.cpp](./Arrays/Quick_%20sort_partition.cpp) | `Pivot positioned at index 4` |
+| **Quick Sort Partition** | [Quick_%20sort_partition.cpp](./Arrays/Quick_%20sort_partition.cpp) | `Pivot positioned at index 4` | **minimum windowSum | [minimum windowSum.cpp] (Arrays/minimum_window_Sum.cpp)| `sorted window: minimumwindowSum : 24
+
+[Program finished]
+
 
 ---
 
