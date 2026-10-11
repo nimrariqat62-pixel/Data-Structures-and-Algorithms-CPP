@@ -73,7 +73,8 @@ This section covers fundamental to advanced array operations and sorting algorit
 | **Quick Sort Partition** | [Quick_%20sort_partition.cpp](./Arrays/Quick_%20sort_partition.cpp) | `Pivot positioned at index 4` | | Topic / Concept | Source Code | Execution Proof / Output |
 | :--- | :--- | :--- |
 | **Minimum Window Sum (Sliding Window)** | [minimum_window_Sum.cpp](./Arrays/minimum_window_Sum.cpp) | `minimumwindowSum : 24 [Program finished]` 
-| **Prefix Sum** | [prefix_sum.cpp](./Arrays/prefix_sum.cpp) | `1   3   6   10   16   25 [Program finished]` |
+| **Prefix Sum** | [prefix_sum.cpp](./Arrays/prefix_sum.cpp) | `1   3   6   10   16   25 [Program finished]` | **Maximum Subarray (Kadane's)** | [kadane_algorithm.cpp](./Arrays/kadane_algorithm.cpp) | `maximum subarray sum = 8 [Program finished]` |
+
 
 
 
