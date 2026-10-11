@@ -74,8 +74,8 @@ This section covers fundamental to advanced array operations and sorting algorit
 | :--- | :--- | :--- |
 | **Minimum Window Sum (Sliding Window)** | [minimum_window_Sum.cpp](./Arrays/minimum_window_Sum.cpp) | `minimumwindowSum : 24 [Program finished]` 
 | **Prefix Sum** | [prefix_sum.cpp](./Arrays/prefix_sum.cpp) | `1   3   6   10   16   25 [Program finished]` 
-| **Maximum Subarray (Kadane's)** | [kadane_algorithm.cpp](./Arrays/kadane_algorithm.cpp) | `maximum subarray sum = 8 [Program finished]` |
- |
+| **Maximum Subarray (Kadane's)** | [kadnae_algorithm.cpp](./Arrays/kadnae_algorithm.cpp) | `maximum subarray sum = 8 [Program finished]` |
+
 
 
 
