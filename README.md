@@ -40,6 +40,17 @@ The main objectives of this repository are to:
 
 ---
 
+## 🗺️ Learning Roadmap & Future Topics
+
+- [x] **Arrays & Basic Operations** (In Progress 🚀)
+- [ ] **Strings & String Manipulation**
+- [ ] **Pointers & Dynamic Memory Management**
+- [ ] **Recursion & Backtracking**
+- [ ] **Linked Lists, Stacks & Queues**
+- [ ] **Trees & Graphs**
+
+---
+
 📚 Topics
 
 ## 📂 Data Structures & Algorithms — Arrays & Sorting
