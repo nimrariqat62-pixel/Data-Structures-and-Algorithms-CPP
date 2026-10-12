@@ -533,7 +533,6 @@ Every program in this repository represents another step toward stronger program
 ### 👩‍💻 Author Profile
 
 * **Name:** Nimra Riqat
-* **Email:** [nimrariqat62@gmail.com](mailto:nimrariqat62@gmail.com)
 * **GitHub:** [@nimrariqat62-pixel](https://github.com/nimrariqat62-pixel)
 
 ---
