@@ -79,6 +79,8 @@ This section covers fundamental to advanced array operations and sorting algorit
 | **Array Left Rotation** | [array_left_rotation.cpp](./Arrays/array_left_rotation.cpp) | `6 8 10 12 3 [Program finished]` |
 | **Array Right Rotation** | [array_right_rotation.cpp](./Arrays/array_right_rotation.cpp) | `9 12 3 6 5 [Program finished]` |
 | **Matrix Column-Wise Traversal** | [matrix_column_wise_traversal.cpp](./Arrays/matrix_column_wise_traversal.cpp) | `1 5 9 2 6 10 3 7 11 4 8 12 [Program finished]` |
+| **Matrix Searching** | [matrix_searching.cpp](./Arrays/matrix_searching.cpp) | `enter value to search : 9 number is found [Program finished]` |
+
 
 
 
