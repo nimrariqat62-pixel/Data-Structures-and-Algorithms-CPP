@@ -80,7 +80,8 @@ This section covers fundamental to advanced array operations and sorting algorit
 | **Array Right Rotation** | [array_right_rotation.cpp](./Arrays/array_right_rotation.cpp) | `9 12 3 6 5 [Program finished]` |
 | **Matrix Column-Wise Traversal** | [matrix_column_wise_traversal.cpp](./Arrays/matrix_column_wise_traversal.cpp) | `1 5 9 2 6 10 3 7 11 4 8 12 [Program finished]` |
 | **Matrix Searching** | [matrix_searching.cpp](./Arrays/matrix_searching.cpp) | `enter value to search : 9 number is found [Program finished]` |
-| **Searching (Nested Loops)** | [searching_nested_loops.cpp](./Arrays/searching_nested_loops.cpp) | `enter value to search : 15 number is not found [Program finished]` |
+| **Matrix Searching (Nested Loops)** | [matrix_searching_nested_loops.cpp](./Arrays/matrix_searching_nested_loops.cpp) | `enter value to search : 15 number is not found [Program finished]` |
+
 
 
 
