@@ -296,22 +296,22 @@ After developing the core DSA foundation, the repository will gradually explore:
 
 ---
 
-📊 Complexity Analysis
+### 📊 Complexity Analysis
 
-Algorithm efficiency is an important part of this learning journey.
+Algorithm efficiency is an important part of this learning journey. For major algorithms, the repository considers:
 
-For major algorithms, the repository will consider:
-
-Concept| Meaning
-Time Complexity| How the running time grows with input size
-Space Complexity| How additional memory usage grows
-Big O Notation| Describes the growth rate of an algorithm
-Best Case| Most favorable input situation
-Average Case| Expected or typical behavior
-Worst Case| Least favorable input situation
+| Concept | Meaning | Status / Methodology |
+| :--- | :--- | :--- |
+| **Time Complexity** | How the running time grows with input size | *Understood & Applied* |
+| **Space Complexity** | How additional memory usage grows | *Understood & Applied* |
+| **Big O Notation** | Describes the growth rate of an algorithm | *Mastered $O(1)$, $O(n)$, $O(n^2)$* |
+| **Best Case** | Most favorable input situation | *Analyzed* |
+| **Average Case** | Expected or typical behavior | *Analyzed* |
+| **Worst Case** | Least favorable input situation | *Analyzed* |
+| **Time & Space Complexity** | Conceptual Guide & Big O ($O(1)$, $O(n)$, $O(n^2)$) | *Mastered constant, linear, and quadratic complexities with paper-first methodology.* |
 
 Understanding complexity helps determine which solution is more suitable for a particular problem.
-| **Time & Space Complexity** | Conceptual Guide & Big O ($O(1)$, $O(n)$, $O(n^2)$) | *Mastered constant, linear, and quadratic complexities with paper-first methodology.* |
+
 
 
 ---
