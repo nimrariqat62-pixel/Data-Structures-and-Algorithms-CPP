@@ -82,6 +82,8 @@ This section covers fundamental to advanced array operations and sorting algorit
 | **Matrix Searching** | [matrix_searching.cpp](./Arrays/matrix_searching.cpp) | `enter value to search : 9 number is found [Program finished]` |
 | **Matrix Searching (Nested Loops)** | [matrix_searching_nested_loops.cpp](./Arrays/matrix_searching_nested_loops.cpp) | `enter value to search : 15 number is not found [Program finished]` |
 | **Mixed Array Analysis** | [mixed_array_analysis.cpp](./Arrays/mixed_array_analysis.cpp) | `largest numbers : 10 smallest numbers : 3 even count : 3 odd count : 4 positive count : 7 negative count : 0 zero count : 0 [Program finished]` |
+| **Time & Space Complexity** | Conceptual Guide & Big O ($O(1)$, $O(n)$, $O(n^2)$) | *Mastered constant, linear, and quadratic complexities with paper-first methodology.* |
+
 
 
 
