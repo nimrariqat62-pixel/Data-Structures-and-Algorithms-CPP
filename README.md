@@ -86,12 +86,12 @@ This section covers fundamental to advanced array operations and sorting algorit
 
 
 
-
 ## 🔗 Linked List Implementation & Execution Proofs
 
 | Algorithm / Topic | C++ Source Code | Execution Proof |
 | :--- | :--- | :--- |
-| **Node Creation & Traversal** | [`node_traversal.cpp`](./LinkedList/node_traversal.cpp) | `10    20    30` |
+| **Node Creation & Traversal** | [`01_Basic_Linked_List.cpp`](./LinkedList/01_Basic_Linked_List.cpp) | `10    20    30`<br>`[Program finished]` |
+
 
 
 
